@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(235, 230, 255);
+}
+/* #main_div{
+    background-color: blue;
+} */
+#header{
+    margin: 20px;
+    background-color: navy;
+    text-align: center;
+    padding: 1px;
+    color: white;
+    text-shadow: 2px 2px red;
+}
+/* #nav_bar{
+
+} */
+.nav_bar{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: rgb(0, 0, 173);
+}
+.nav_bar:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.nav_bar:focus{
+    color: blue;
+}
+.heading{
+    text-align: center;
+    /* padding: 1px; */
+    font-size: 1.1em;
+    margin: 20px;
+    background-color: rgb(189, 163, 255);
+    color: navy;
+    text-shadow: 1px 1px red;
+}
+#para0{
+    margin: 20px;
+    color: darkblue;
+}
+#para2{
+    margin-left: 30px;
+    font-size: 1.1em;
+    color: darkblue;
+    font-weight: bolder;
+}
+.nav_bar1{
+    font-size: 1.1em;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.nav_bar1:hover{
+    color: red;
+}
+.nav_bar1:focus{
+    color: red;
+}
+#para3{
+    margin-left: 50px;
+    color: darkblue;
+    font-size: 1.1em;
+}
+#footer{
+    margin: 20px;
+    background-color: rgb(203, 203, 255);
+}
